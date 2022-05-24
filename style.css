@@ -1,18 +1,15 @@
 /* Von Florin Eibel erstellt */
+/* Generelles */
+
 body{
     background-image: url("assets/images/Titelbild.jpg");
     background-size: cover;
     padding: 0;
     margin: 0;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
-#home-title{
-    font-size: 110px;
-    text-align: center;
-    font-family: sans-serif;
-    color: white;
-}
 
 h2{
     font-family: sans-serif;
@@ -21,11 +18,67 @@ h2{
     color: yellow;
 }
 
+h4{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #abaf16;
+}
+
+.button{
+    background-color: #196be8;
+    font-size: 25px;
+    cursor: pointer;
+    border: 10px;
+    border-style: solid;
+    border-color: #196BE8FF;
+    border-radius: 15px;
+}
+
+/* Home-Seite */
+#home-title{
+    font-size: 110px;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+}
+
+.center-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center-button{
+    text-align: center;
+}
+
 /* Von Aaron Meister erstellt*/
+/* Card */
+.cards{
+    margin-top: 250px;
+    margin-bottom: 80px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 35%;
+    background-color: white;
+    margin: auto;
+}
+
+.container {
+    padding: 2px 16px;
+    text-align: center;
+}
+/* End of card */
 
 footer{
     background-color: saddlebrown;
     width: 100%;
     position: absolute;
-    margin-top: 60px;
 }
