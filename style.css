@@ -38,6 +38,27 @@ a{
     border-radius: 15px;
 }
 
+/* header */
+header {
+    background-color: saddlebrown;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+ul{
+    margin-block-start: 0;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-item{
+    list-style-type: none;
+    font-size: 20px;
+}
 /* Home-Seite */
 #home-title{
     font-size: 110px;
@@ -77,6 +98,7 @@ a{
 }
 /* End of card */
 
+/* footer */
 footer{
     background-color: saddlebrown;
     width: 100%;
