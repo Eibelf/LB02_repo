@@ -26,6 +26,7 @@ h4{
 a{
     text-decoration: none;
     color: #abaf16;
+    font-family: sans-serif;
 }
 
 .button{
@@ -40,7 +41,7 @@ a{
 
 /* header */
 header {
-    background-color: saddlebrown;
+    background-color: #33639a;
     width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -77,7 +78,7 @@ ul{
     text-align: center;
 }
 
-/* Von Aaron Meister erstellt*/
+/* Von Aaron Meister erstellt */
 /* Card */
 .cards{
     margin-top: 250px;
@@ -96,6 +97,13 @@ ul{
     padding: 2px 16px;
     text-align: center;
 }
+
+@media only screen and (max-width: 1000px) {
+    .card-img{
+        width: 200px;
+}
+
+}
 /* End of card */
 
 /* footer */
@@ -103,4 +111,6 @@ footer{
     background-color: saddlebrown;
     width: 100%;
     position: absolute;
+    font-family: sans-serif;
+    padding-left: 20px;
 }
