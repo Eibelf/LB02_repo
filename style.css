@@ -101,7 +101,7 @@ ul{
 @media only screen and (max-width: 1000px) {
     .card-img{
         width: 200px;
-}
+    }
 
 }
 /* End of card */
@@ -113,4 +113,22 @@ footer{
     position: absolute;
     font-family: sans-serif;
     padding-left: 20px;
+}
+.container {
+    display: block;
+    max-width: 2000px;
+    margin: 0 auto;
+    text-align: center;
+}
+.small {
+    width: 350px;
+    height: auto;
+    position: relative;
+    margin: 3px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 8px black;
+}
+.small:hover {
+    -webkit-transform: scale(1.03, 1.03);
+    transform: scale(1.03, 1.03);
 }
