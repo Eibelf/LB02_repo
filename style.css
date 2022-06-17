@@ -75,6 +75,7 @@ ul{
     color: gray;
 }
 
+
 .center-img {
     display: flex;
     justify-content: center;
@@ -83,6 +84,7 @@ ul{
 
 .center-button{
     text-align: center;
+    size:30px;
 }
 
 .infoliste{
@@ -93,6 +95,12 @@ ul{
     font-family: sans-serif;
 }
 
+.Video{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+}
+
 /* Von Aaron Meister erstellt */
 /* News-Seite */
 .infotext{
@@ -101,6 +109,22 @@ ul{
     font-size: 33px;
     font-weight: bold;
 }
+
+figcaption{
+    font-size: 25px;
+    color: #eaea0d;
+    font-family: sans-serif;
+}
+
+.small {
+    width: 350px;
+    height: auto;
+    position: relative;
+    margin: 3px;
+    border-radius: 10px;
+    box-shadow: 8px 8px 16px black;
+}
+
 /* footer */
 footer{
     background-color: saddlebrown;
@@ -112,14 +136,6 @@ footer{
 .container {
     padding-bottom: 50px;
     text-align: center;
-}
-.small {
-    width: 350px;
-    height: auto;
-    position: relative;
-    margin: 3px;
-    border-radius: 5px;
-    box-shadow: 4px 4px 8px black;
 }
 .small:hover {
     -webkit-transform: scale(1.03, 1.03);
