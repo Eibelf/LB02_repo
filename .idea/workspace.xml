@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da686e29-5a49-47a5-93f5-bac54fd16f7c" name="Changes" comment="Initial Version 20.06.2022 17:11" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2AL2Q29HzOrnu2SMVN4PWqtcsks" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da686e29-5a49-47a5-93f5-bac54fd16f7c" name="Changes" comment="" />
+      <created>1654774524357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654774524357</updated>
+      <workItem from="1654774525520" duration="265000" />
+      <workItem from="1654842714787" duration="6595000" />
+      <workItem from="1655131757068" duration="3241000" />
+      <workItem from="1655446005678" duration="4381000" />
+      <workItem from="1655464091242" duration="28000" />
+      <workItem from="1655736906203" duration="1310000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Version 10.06.2022 08:32">
+      <created>1654842774510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654842774510</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Version 10.06.202210:06">
+      <created>1654848408097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654848408097</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Version 10.06.2022 11:46">
+      <created>1654854391731</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654854391731</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial Version 13.06.2022 17:43">
+      <created>1655135011204</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655135011204</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial Version 17:06.2022 09:52">
+      <created>1655452337415</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655452337415</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initial Version 17:06.2022 10:26">
+      <created>1655454424829</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655454424829</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial Version 20.06.2022 17:11">
+      <created>1655737944472</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655737944472</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Version 10.06.2022 08:32" />
+    <MESSAGE value="Initial Version 10.06.202210:06" />
+    <MESSAGE value="Initial Version 10.06.2022 11:46" />
+    <MESSAGE value="Initial Version 13.06.2022 17:43" />
+    <MESSAGE value="Initial Version 17:06.2022 09:52" />
+    <MESSAGE value="Initial Version 17:06.2022 10:26" />
+    <MESSAGE value="Initial Version 20.06.2022 17:11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Version 20.06.2022 17:11" />
+  </component>
+</project>
